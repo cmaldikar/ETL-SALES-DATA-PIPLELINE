@@ -22,11 +22,9 @@ The ETL-SALES-DATA-PIPELINE project comprises the following main components:
    - Power BI reports are created on top of the data in Azure Synapse Analytics.
    - Reports visualize various KPIs, such as sales performance, trends, and forecasts.
 
-![Alt text](./DE-Architecture.png)
+## Architecture
+![Architecture Diagram](./DE-Architecture.png)
 
-
-##Architecture:
-DE-Architecture.png
 ## Setup Instructions
 
 To set up and run the ETL-SALES-DATA-PIPELINE project, follow these steps:
