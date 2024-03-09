@@ -65,6 +65,6 @@ To set up and run the ETL-SALES-DATA-PIPELINE project, follow these steps:
 - Monitor the data pipeline for any issues or bottlenecks.
 - Schedule regular maintenance tasks, such as data refreshes and system updates.
 
-## Visualization
+## Output Sales Visualization:
 
 ![Sales Data Visualization](/POWERBI/SALES%20DATA%20DASHBOARD.jpg)
