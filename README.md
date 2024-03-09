@@ -28,7 +28,7 @@ The ETL-SALES-DATA-PIPELINE project comprises the following main components:
 
 ## Architecture
 
-![Architecture Diagram](/path/to/architecture_diagram.png)
+![Architecture Diagram](/DE-Architecture.png)
 
 ## Setup Instructions
 
